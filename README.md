@@ -11,7 +11,6 @@ This project aims to perform customer segmentation on e-commerce transaction dat
 ## 🛠️ Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
-- MySQL
 - Power BI
 - Machine Learning
 - Generative AI (for recommendations)
